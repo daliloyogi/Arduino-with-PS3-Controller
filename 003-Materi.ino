@@ -193,7 +193,7 @@ void loop()
         digitalWrite(led1, LOW);
         digitalWrite(led2, LOW);
         digitalWrite(led3, LOW);
-        digitalWrite(led4, LOW);1
+        digitalWrite(led4, LOW);
     }
     //D-pad left
     if( Ps3.event.button_down.left ) {
@@ -221,4 +221,5 @@ void loop()
         delay(500);
         }
     }
+    delay(2000);
 }
