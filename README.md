@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @daliloyogi
-- 👀 I’m interested in Web Developing
+- 👀 
 
+Library: PS3 Controller Host v 1.1.0 by Jeffrey van Pernis
 
 <!---
 daliloyogi/daliloyogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
